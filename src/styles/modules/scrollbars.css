@@ -1,0 +1,5 @@
+/* Custom style for OverlaySCrollbars */
+.os-scrollbar {
+    --os-track-bg: #e4e4e4;
+    --os-handle-bg: #8dabbe;
+}
