@@ -1,2 +1,7 @@
 @import "../../node_modules/lenis/dist/lenis.css";
 @import "./modules/global.css";
+
+.image {
+    will-change: transform;
+    transition: transform 0.1s linear;
+}

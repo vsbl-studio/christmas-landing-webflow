@@ -1,3 +1,5 @@
-import { locomotiveScroll, lenis } from "./modules/smoothScroll";
+import smoothScroll from "./modules/smoothScroll";
 
-document.addEventListener("DOMContentLoaded", function () {});
+document.addEventListener("DOMContentLoaded", function () {
+    smoothScroll();
+});
